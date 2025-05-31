@@ -5,7 +5,6 @@
 💻 Tecnologías: HTML, CSS, JavaScript, Python
 
 🚀 Proyectos destacados:
--<a href="https://www.bytraklandia.com" target="_blank">BYTRAKLANDIA</a>
-
+- [BYTRAKLANDIA](https://www.bytraklandia.com)
 
 📫 Contacto: [prfssionalcuentacps@gmail.com]
