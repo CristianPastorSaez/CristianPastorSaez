@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Cristian Pastor Sáez
 
-🎓 Estudiante de SMX apasionado por la programación y el desarrollo de software.
+🎓 Estudiante de Sistemas Microinformáticos y Redes apasionado por la programación y el desarrollo de software.
 
 💻 Tecnologías: HTML, CSS, JavaScript, Python
 
