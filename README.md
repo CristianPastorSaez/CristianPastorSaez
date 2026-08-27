@@ -1,8 +1,9 @@
 # 👋 ¡Hola! Soy Cristian Pastor Sáez
 
-🎓 Estudiante de Sistemas Microinformáticos y Redes apasionado por la programación y el desarrollo de software.
+🧑‍🔧 Técnico de Sistemas Microinformáticos y Redes apasionado por la programación y el desarrollo de software.
+👨‍🎓 Estudiante en Desarrollo de Aplicaciones Multiplataforma.
 
-💻 Tecnologías: HTML, CSS, JavaScript, Python, Docker
+💻 Tecnologías: HTML, CSS, JavaScript, Python, Docker, SQL, OpenCode
 
 🚀 Proyectos destacados:
 - [BYTRAKLANDIA](https://www.bytraklandia.com) (ESTÁ DESHABILITADO)
