@@ -4,7 +4,7 @@
 
 👨‍🎓 Estudiante en Desarrollo de Aplicaciones Multiplataforma.
 
-💻 Tecnologías: HTML, CSS, JavaScript, Python, Docker, SQL, OpenCode
+💻 Tecnologías: HTML, CSS, JavaScript, Python, Docker, SQL, OpenCode.
 
 🚀 Proyectos destacados:
 - [BYTRAKLANDIA](https://www.bytraklandia.com) (ESTÁ DESHABILITADO)
