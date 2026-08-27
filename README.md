@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Cristian Pastor Sáez
 
 🧑‍🔧 Técnico de Sistemas Microinformáticos y Redes apasionado por la programación y el desarrollo de software.
+
 👨‍🎓 Estudiante en Desarrollo de Aplicaciones Multiplataforma.
 
 💻 Tecnologías: HTML, CSS, JavaScript, Python, Docker, SQL, OpenCode
