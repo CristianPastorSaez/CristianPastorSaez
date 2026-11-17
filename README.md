@@ -2,23 +2,41 @@
 
 # 👋 ¡Hola! Soy Cristian Pastor Sáez
 
-**🧑‍🔧 Técnico de Sistemas Microinformáticos y Redes** apasionado por la programación y el desarrollo de software.<br>
-**👨‍🎓 Estudiante** en Desarrollo de Aplicaciones Multiplataforma.
+### Diseño e implemento infraestructuras IT eficientes, preparadas para escalar.
 
-<a href="https://tecnotrack.es"><img src="https://img.shields.io/badge/Web-tecnotrack.es-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
-<a href="https://www.linkedin.com/in/cristian-pastor-saez"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Pastor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.linkedin.com/company/tecnotrack"><img src="https://img.shields.io/badge/LinkedIn-TecnoTrack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn TecnoTrack"></a>
-<a href="https://github.com/TecnoTrack"><img src="https://img.shields.io/badge/GitHub-TecnoTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub TecnoTrack"></a>
-<a href="mailto:cristian@tecnotrack.es"><img src="https://img.shields.io/badge/Email-TecnoTrack-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email TecnoTrack"></a>
-<a href="mailto:prfssionalcuentacps@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+🧑‍🔧 Técnico en SMR · 👨‍🎓 Estudiante de DAM · 💼 TecnoTrack
+
+<p>
+  <a href="https://www.linkedin.com/in/cristian-pastor-saez"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Pastor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:prfssionalcuentacps@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:cristian@tecnotrack.es"><img src="https://img.shields.io/badge/Email-TecnoTrack-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email TecnoTrack"></a>
+</p>
+<p>
+  <a href="https://tecnotrack.es"><img src="https://img.shields.io/badge/Web-tecnotrack.es-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web TecnoTrack"></a>
+  <a href="https://www.linkedin.com/company/tecnotrack"><img src="https://img.shields.io/badge/LinkedIn-TecnoTrack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn TecnoTrack"></a>
+  <a href="https://github.com/TecnoTrack"><img src="https://img.shields.io/badge/GitHub-TecnoTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub TecnoTrack"></a>
+</p>
 
 </div>
 
 ---
 
+## 🧑‍💻 Sobre mí
+
+- 🔧 Me apasiona crear proyectos donde aplico mis habilidades y aprendo otras nuevas.
+- 🏗️ Diseño e implemento infraestructuras IT eficientes, pensadas para anticiparse a problemas y escalar a largo plazo.
+- 💼 Compagino mis estudios de DAM con mi trabajo en TecnoTrack.
+- 🤖 Investigo sobre informática e IA para estar en la vanguardia tecnológica.
+- 📈 Mentalidad de superación y aprendizaje continuo.
+
+> *"Un problema imposible es simplemente aquel que superó el esfuerzo de quien más lo intentó."*
+
+---
+
 ## 💻 Tecnologías
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="right"><b>Lenguajes</b></td>
     <td>
@@ -62,6 +80,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -80,7 +99,6 @@
 
 ## ⚡ Ahora mismo
 
-- 🎓 Cursando **Desarrollo de Aplicaciones Multiplataforma**.
 - 🛠️ Preparando el lanzamiento de **AppSolve**.
 - ✍️ Escribiendo en el [blog técnico de TecnoTrack](https://tecnotrack.es/blog).
 
