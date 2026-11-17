@@ -107,8 +107,8 @@
 ## 📊 Estadísticas en GitHub
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas de GitHub">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes más usados">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes más usados">
 </p>
 
 ---
