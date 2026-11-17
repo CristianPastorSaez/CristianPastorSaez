@@ -6,6 +6,7 @@
 **👨‍🎓 Estudiante** en Desarrollo de Aplicaciones Multiplataforma.
 
 <a href="https://tecnotrack.es"><img src="https://img.shields.io/badge/Web-tecnotrack.es-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
+<a href="https://www.linkedin.com/in/cristian-pastor-saez"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Pastor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/company/tecnotrack"><img src="https://img.shields.io/badge/LinkedIn-TecnoTrack-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn TecnoTrack"></a>
 <a href="https://github.com/TecnoTrack"><img src="https://img.shields.io/badge/GitHub-TecnoTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub TecnoTrack"></a>
 <a href="mailto:cristian@tecnotrack.es"><img src="https://img.shields.io/badge/Email-TecnoTrack-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email TecnoTrack"></a>
@@ -70,12 +71,10 @@
 | :-- | :-- | :-: |
 | 🌐 **[TecnoTrack](https://tecnotrack.es)** | Consultoría TI para empresas: infraestructura y redes, automatización, optimización de sistemas y autoridad digital. Incluye blog técnico. | 🟢 |
 | 🛠️ **[AppSolve](https://app.tecnotrack.es)** | App de diagnóstico para Windows 10/11: analiza procesos, registro y eventos en local y da soluciones paso a paso en español. | 🟡 Próximamente |
-| 🔄 **[Aules Scrapper](https://sync.tecnotrack.es)** | Sincronización de datos de la plataforma educativa Aules. | 🟡 |
 | 🗂️ **[Git](https://git.tecnotrack.es)** | Servidor Git propio (Gitea) para los repositorios internos de TecnoTrack. | 🟢 |
 | ✉️ **[Mail](https://mail.tecnotrack.es)** | Servidor de correo propio con webmail, SSO y acceso FIDO2/WebAuthn. | 🟢 |
 | 📚 **[Docs](https://docs.tecnotrack.es)** | Wiki de documentación interna (Wiki.js). | 🟢 |
 | 💬 **[Chat](https://chat.tecnotrack.es)** | Mensajería interna del equipo (Rocket.Chat). | 🟢 |
-| 🎮 **[BYTRAKLANDIA](https://www.bytraklandia.com)** | — | 🔴 Deshabilitado |
 
 ---
 
