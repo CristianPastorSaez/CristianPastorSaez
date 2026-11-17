@@ -1,0 +1,19 @@
+name: Tarjetas de estadísticas del perfil
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # cada día a las 03:17 UTC
+  workflow_dispatch: # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
