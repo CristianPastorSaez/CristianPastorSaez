@@ -117,5 +117,4 @@
 
 <p align="center">
   <a href="mailto:prfssionalcuentacps@gmail.com">prfssionalcuentacps@gmail.com</a> · <a href="mailto:cristian@tecnotrack.es">cristian@tecnotrack.es</a>
-  <a href="https://tecnotrack.es/#contacto">Contacto Empresa>
 </p>
